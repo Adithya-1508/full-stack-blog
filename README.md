@@ -1,2 +1,2 @@
 # full-stack-blog
-Full Stack Blog application 
+Kindly view the project in the master branch...
